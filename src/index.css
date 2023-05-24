@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+html {
+    font-size: 16px;
+}
+
+body {
+    margin:0;
+    font-family: 'Pangolin', cursive;
+}
+h1,h2,p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+button {
+    border: none;
+    font-family: inherit;
+    cursor: pointer;
+}
